@@ -14,6 +14,7 @@
 		98E7F4CA24993DD30013E533 /* shapeArea.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 98E7F4C924993DD30013E533 /* shapeArea.cpp */; };
 		98E7F4CC24993E4E0013E533 /* makeArrayConsecutive2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 98E7F4CB24993E4E0013E533 /* makeArrayConsecutive2.cpp */; };
 		98E7F4CF249943E90013E533 /* almostIncreasingSequence.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 98E7F4CD249943E90013E533 /* almostIncreasingSequence.cpp */; };
+		98E7F4D2249944950013E533 /* matrixElementsSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 98E7F4D0249944950013E533 /* matrixElementsSum.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,7 +38,7 @@
 		98E7F4C924993DD30013E533 /* shapeArea.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = shapeArea.cpp; sourceTree = "<group>"; };
 		98E7F4CB24993E4E0013E533 /* makeArrayConsecutive2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = makeArrayConsecutive2.cpp; sourceTree = "<group>"; };
 		98E7F4CD249943E90013E533 /* almostIncreasingSequence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = almostIncreasingSequence.cpp; sourceTree = "<group>"; };
-		98E7F4CE249943E90013E533 /* almostIncreasingSequence.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = almostIncreasingSequence.hpp; sourceTree = "<group>"; };
+		98E7F4D0249944950013E533 /* matrixElementsSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = matrixElementsSum.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,7 +110,7 @@
 				98E7F4C924993DD30013E533 /* shapeArea.cpp */,
 				98E7F4CB24993E4E0013E533 /* makeArrayConsecutive2.cpp */,
 				98E7F4CD249943E90013E533 /* almostIncreasingSequence.cpp */,
-				98E7F4CE249943E90013E533 /* almostIncreasingSequence.hpp */,
+				98E7F4D0249944950013E533 /* matrixElementsSum.cpp */,
 			);
 			path = "Edge of the Ocean";
 			sourceTree = "<group>";
@@ -175,6 +176,7 @@
 				98E7F4CC24993E4E0013E533 /* makeArrayConsecutive2.cpp in Sources */,
 				98E7F4CA24993DD30013E533 /* shapeArea.cpp in Sources */,
 				98E7F4C5249935170013E533 /* checkPalindrome.cpp in Sources */,
+				98E7F4D2249944950013E533 /* matrixElementsSum.cpp in Sources */,
 				98E7F4C0249933E50013E533 /* add.cpp in Sources */,
 				98E7F4C3249934820013E533 /* centuryFromYear.cpp in Sources */,
 			);
