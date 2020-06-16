@@ -10,6 +10,7 @@
 		98E7F4C0249933E50013E533 /* add.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 98E7F4BF249933E50013E533 /* add.cpp */; };
 		98E7F4C3249934820013E533 /* centuryFromYear.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 98E7F4C1249934820013E533 /* centuryFromYear.cpp */; };
 		98E7F4C5249935170013E533 /* checkPalindrome.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 98E7F4C4249935170013E533 /* checkPalindrome.cpp */; };
+		98E7F4C824993D550013E533 /* adjacentElementsProduct.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 98E7F4C724993D550013E533 /* adjacentElementsProduct.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		98E7F4BF249933E50013E533 /* add.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = add.cpp; sourceTree = "<group>"; };
 		98E7F4C1249934820013E533 /* centuryFromYear.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = centuryFromYear.cpp; sourceTree = "<group>"; };
 		98E7F4C4249935170013E533 /* checkPalindrome.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = checkPalindrome.cpp; sourceTree = "<group>"; };
+		98E7F4C724993D550013E533 /* adjacentElementsProduct.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = adjacentElementsProduct.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		98E7F4BD249933B80013E533 /* Intro */ = {
 			isa = PBXGroup;
 			children = (
+				98E7F4C6249938AC0013E533 /* Edge of the Ocean */,
 				98E7F4BE249933C50013E533 /* The Journey Begins */,
 			);
 			path = Intro;
@@ -90,6 +93,14 @@
 				98E7F4C4249935170013E533 /* checkPalindrome.cpp */,
 			);
 			path = "The Journey Begins";
+			sourceTree = "<group>";
+		};
+		98E7F4C6249938AC0013E533 /* Edge of the Ocean */ = {
+			isa = PBXGroup;
+			children = (
+				98E7F4C724993D550013E533 /* adjacentElementsProduct.cpp */,
+			);
+			path = "Edge of the Ocean";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -148,6 +159,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98E7F4C824993D550013E533 /* adjacentElementsProduct.cpp in Sources */,
 				98E7F4C5249935170013E533 /* checkPalindrome.cpp in Sources */,
 				98E7F4C0249933E50013E533 /* add.cpp in Sources */,
 				98E7F4C3249934820013E533 /* centuryFromYear.cpp in Sources */,

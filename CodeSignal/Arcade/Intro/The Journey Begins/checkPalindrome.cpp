@@ -27,7 +27,10 @@ true if inputString is a palindrome, false otherwise.
 
 bool checkPalindrome(std::string inputString) {
     auto length = inputString.length();
-    for (size_t i = 0; i < length / 2; ++i)
-        if (inputString[i] != inputString[length - i - 1]) return false;
+    for (size_t i = 0; i < length / 2; ++i) {
+        if (inputString[i] != inputString[length - i - 1]) {
+            return false;
+        }
+    }
     return true;
 }
