@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		98E7F4C0249933E50013E533 /* add.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 98E7F4BF249933E50013E533 /* add.cpp */; };
 		98E7F4C3249934820013E533 /* centuryFromYear.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 98E7F4C1249934820013E533 /* centuryFromYear.cpp */; };
+		98E7F4C5249935170013E533 /* checkPalindrome.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 98E7F4C4249935170013E533 /* checkPalindrome.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		98E7F4B2249933650013E533 /* CodeSignal */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodeSignal; sourceTree = BUILT_PRODUCTS_DIR; };
 		98E7F4BF249933E50013E533 /* add.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = add.cpp; sourceTree = "<group>"; };
 		98E7F4C1249934820013E533 /* centuryFromYear.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = centuryFromYear.cpp; sourceTree = "<group>"; };
+		98E7F4C4249935170013E533 /* checkPalindrome.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = checkPalindrome.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 			children = (
 				98E7F4BF249933E50013E533 /* add.cpp */,
 				98E7F4C1249934820013E533 /* centuryFromYear.cpp */,
+				98E7F4C4249935170013E533 /* checkPalindrome.cpp */,
 			);
 			path = "The Journey Begins";
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98E7F4C5249935170013E533 /* checkPalindrome.cpp in Sources */,
 				98E7F4C0249933E50013E533 /* add.cpp in Sources */,
 				98E7F4C3249934820013E533 /* centuryFromYear.cpp in Sources */,
 			);
