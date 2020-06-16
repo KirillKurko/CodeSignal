@@ -12,6 +12,7 @@
 		98E7F4C5249935170013E533 /* checkPalindrome.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 98E7F4C4249935170013E533 /* checkPalindrome.cpp */; };
 		98E7F4C824993D550013E533 /* adjacentElementsProduct.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 98E7F4C724993D550013E533 /* adjacentElementsProduct.cpp */; };
 		98E7F4CA24993DD30013E533 /* shapeArea.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 98E7F4C924993DD30013E533 /* shapeArea.cpp */; };
+		98E7F4CC24993E4E0013E533 /* makeArrayConsecutive2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 98E7F4CB24993E4E0013E533 /* makeArrayConsecutive2.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		98E7F4C4249935170013E533 /* checkPalindrome.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = checkPalindrome.cpp; sourceTree = "<group>"; };
 		98E7F4C724993D550013E533 /* adjacentElementsProduct.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = adjacentElementsProduct.cpp; sourceTree = "<group>"; };
 		98E7F4C924993DD30013E533 /* shapeArea.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = shapeArea.cpp; sourceTree = "<group>"; };
+		98E7F4CB24993E4E0013E533 /* makeArrayConsecutive2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = makeArrayConsecutive2.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 			children = (
 				98E7F4C724993D550013E533 /* adjacentElementsProduct.cpp */,
 				98E7F4C924993DD30013E533 /* shapeArea.cpp */,
+				98E7F4CB24993E4E0013E533 /* makeArrayConsecutive2.cpp */,
 			);
 			path = "Edge of the Ocean";
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				98E7F4C824993D550013E533 /* adjacentElementsProduct.cpp in Sources */,
+				98E7F4CC24993E4E0013E533 /* makeArrayConsecutive2.cpp in Sources */,
 				98E7F4CA24993DD30013E533 /* shapeArea.cpp in Sources */,
 				98E7F4C5249935170013E533 /* checkPalindrome.cpp in Sources */,
 				98E7F4C0249933E50013E533 /* add.cpp in Sources */,
